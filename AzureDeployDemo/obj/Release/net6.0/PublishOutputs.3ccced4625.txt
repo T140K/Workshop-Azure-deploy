@@ -1,0 +1,7 @@
+E:\VS-Projects\AzureDeployDemo\AzureDeployDemo\obj\Release\net6.0\PubTmp\Out\AzureDeployDemo.exe
+E:\VS-Projects\AzureDeployDemo\AzureDeployDemo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\VS-Projects\AzureDeployDemo\AzureDeployDemo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\VS-Projects\AzureDeployDemo\AzureDeployDemo\obj\Release\net6.0\PubTmp\Out\AzureDeployDemo.dll
+E:\VS-Projects\AzureDeployDemo\AzureDeployDemo\obj\Release\net6.0\PubTmp\Out\AzureDeployDemo.deps.json
+E:\VS-Projects\AzureDeployDemo\AzureDeployDemo\obj\Release\net6.0\PubTmp\Out\AzureDeployDemo.runtimeconfig.json
+E:\VS-Projects\AzureDeployDemo\AzureDeployDemo\obj\Release\net6.0\PubTmp\Out\AzureDeployDemo.pdb
